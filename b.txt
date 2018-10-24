@@ -1,1 +1,2 @@
-this is new file:wq
+this is new file
+hello world
